@@ -1,9 +1,9 @@
 markdown: kramdown
-title: EbonNow - Always with you
-author: EbonNow
-author_email: ebonxindia@gmail.com
+title: Ebon - A complete responsive jekyll official website
+author: anand_pal
+author_email: anand.pal2050@gmail.com
 description: Outsourcing is awesome, save your time
-url: http://ebonnow.com
+baseurl: /Ebon/
 permalink: pretty
 plugins:
   - jekyll-sitemap
