@@ -1,0 +1,9 @@
+markdown: kramdown
+title: EbonNow - Always with you
+author: EbonNow
+author_email: ebonxindia@gmail.com
+description: Outsourcing is awesome, save your time
+url: http://ebonnow.com
+permalink: pretty
+plugins:
+  - jekyll-sitemap
